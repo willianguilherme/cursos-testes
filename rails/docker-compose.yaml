@@ -1,0 +1,32 @@
+version: "3.8"
+
+services:
+    database:
+        container_name: "database"
+        build:
+            context: .
+            dockerfile: docker/Dockerfile.database
+        image: "database:latest"
+        expose:
+            - "5432"
+        ports:
+            - "5432:5432"
+    webserver:
+        container_name: "webserver"
+        build:
+            context: .
+            dockerfile: docker/Dockerfile.webserver
+        image: "webserver:latest"
+        volumes:
+            - ".:/webserver"
+            - ./PostgreSQL:/var/lib/postgresql/data
+        depends_on:
+            - "database"
+        expose:
+            - "3000"
+        ports:
+            - "3000:3000"
+
+networks:
+    webserver-rails:
+        driver: "bridge"

@@ -1,0 +1,8 @@
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\1 - primeiro\bin\Debug\1 - primeiro.exe.config
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\1 - primeiro\bin\Debug\1 - primeiro.exe
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\1 - primeiro\bin\Debug\1 - primeiro.pdb
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\1 - primeiro\obj\Debug\1 - primeiro.csproj.AssemblyReference.cache
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\1 - primeiro\obj\Debug\1 - primeiro.csproj.SuggestedBindingRedirects.cache
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\1 - primeiro\obj\Debug\1 - primeiro.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\1 - primeiro\obj\Debug\1 - primeiro.exe
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\1 - primeiro\obj\Debug\1 - primeiro.pdb

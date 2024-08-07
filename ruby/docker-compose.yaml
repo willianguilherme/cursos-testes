@@ -1,0 +1,15 @@
+version: "3.8"
+
+services:
+  app:
+    container_name: "app"
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: "app:latest"
+    volumes:
+      - ".:/app"
+
+networks:
+  app-ruby:
+    driver: "bridge"

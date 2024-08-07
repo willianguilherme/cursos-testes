@@ -1,0 +1,45 @@
+@import './variables';
+
+@mixin centralizar($horizontal, $vertical) {
+    display: flex;
+    justify-content: $horizontal;
+    align-items: $vertical;
+}
+
+@mixin corpo {
+    @include centralizar(start, center);
+    width: 100%;
+    height: 800px;
+    margin: 0;
+    padding: 0;
+}
+
+@mixin circulo {
+    border-radius: 50%;
+}
+
+@mixin cor-back($color) {
+    background-color: $color;
+}
+
+body {
+    @include corpo();
+    @include cor-back(yellow);
+}
+
+div {
+    @include circulo();
+    @include centralizar(end, center);
+    height: 100px;
+    width: 100px;
+}
+
+.color1 {
+    background-color: $primeiro;
+}
+.color2 {
+    background-color: $segunda;
+}
+.color3 {
+    background-color: $terceiro;
+}

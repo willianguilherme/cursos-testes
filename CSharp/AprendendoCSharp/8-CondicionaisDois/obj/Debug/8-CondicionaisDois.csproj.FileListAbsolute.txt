@@ -1,0 +1,8 @@
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\8-CondicionaisDois\bin\Debug\8-CondicionaisDois.exe.config
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\8-CondicionaisDois\bin\Debug\8-CondicionaisDois.exe
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\8-CondicionaisDois\bin\Debug\8-CondicionaisDois.pdb
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\8-CondicionaisDois\obj\Debug\8-CondicionaisDois.csproj.SuggestedBindingRedirects.cache
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\8-CondicionaisDois\obj\Debug\8-CondicionaisDois.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\8-CondicionaisDois\obj\Debug\8-CondicionaisDois.exe
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\8-CondicionaisDois\obj\Debug\8-CondicionaisDois.pdb
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\8-CondicionaisDois\obj\Debug\8-CondicionaisDois.csproj.AssemblyReference.cache

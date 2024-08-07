@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  preco: 1
+  nome: MyString
+  quantidade: 1
+
+two:
+  preco: 1
+  nome: MyString
+  quantidade: 1

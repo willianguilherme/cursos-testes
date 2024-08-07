@@ -1,0 +1,7 @@
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\3-VariavelPontoFlutuante\bin\Debug\3-VariavelPontoFlutuante.exe.config
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\3-VariavelPontoFlutuante\bin\Debug\3-VariavelPontoFlutuante.exe
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\3-VariavelPontoFlutuante\bin\Debug\3-VariavelPontoFlutuante.pdb
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\3-VariavelPontoFlutuante\obj\Debug\3-VariavelPontoFlutuante.csproj.SuggestedBindingRedirects.cache
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\3-VariavelPontoFlutuante\obj\Debug\3-VariavelPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\3-VariavelPontoFlutuante\obj\Debug\3-VariavelPontoFlutuante.exe
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\3-VariavelPontoFlutuante\obj\Debug\3-VariavelPontoFlutuante.pdb

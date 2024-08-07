@@ -1,0 +1,8 @@
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\6-AtribuicaoVariaveis\bin\Debug\6-AtribuicaoVariaveis.exe.config
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\6-AtribuicaoVariaveis\bin\Debug\6-AtribuicaoVariaveis.exe
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\6-AtribuicaoVariaveis\bin\Debug\6-AtribuicaoVariaveis.pdb
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\6-AtribuicaoVariaveis\obj\Debug\6-AtribuicaoVariaveis.csproj.AssemblyReference.cache
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\6-AtribuicaoVariaveis\obj\Debug\6-AtribuicaoVariaveis.csproj.SuggestedBindingRedirects.cache
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\6-AtribuicaoVariaveis\obj\Debug\6-AtribuicaoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\6-AtribuicaoVariaveis\obj\Debug\6-AtribuicaoVariaveis.exe
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\6-AtribuicaoVariaveis\obj\Debug\6-AtribuicaoVariaveis.pdb

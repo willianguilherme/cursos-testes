@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+
+gem 'cpf_utils', '1.3.0' #versão
+gem 'faker'
+
+# '1.3.0' -- exatamente a versão
+# '>=1.3.0' -- maior ou igual a versão
+# '~>1.3.0' -- maior a versão

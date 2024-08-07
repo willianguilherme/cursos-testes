@@ -1,0 +1,8 @@
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\5-Textos\obj\Debug\5-Textos.csproj.SuggestedBindingRedirects.cache
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\5-Textos\obj\Debug\5-Textos.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\5-Textos\bin\Debug\5-Textos.exe.config
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\5-Textos\bin\Debug\5-Textos.exe
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\5-Textos\bin\Debug\5-Textos.pdb
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\5-Textos\obj\Debug\5-Textos.exe
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\5-Textos\obj\Debug\5-Textos.pdb
+C:\Users\willi\Documents\cursos-meu\CSharp\AprendendoCSharp\5-Textos\obj\Debug\5-Textos.csproj.AssemblyReference.cache
